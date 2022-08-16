@@ -1,0 +1,1 @@
+Solidity based smart contract for a automated joint savings account for two addresses. 
